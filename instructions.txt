@@ -1,0 +1,8 @@
+
+1. Enter the number of questions you wish to practice.
+
+2. Provide your answers to each question as prompted. ALET will evaluate your answers and provide explanations for any incorrect responses.
+
+3. Upon completing the set number of questions, indicate whether you wish to continue with more questions by inputting "yes" or "no." If you select "no," ALET will summarize the number of questions you answered correctly and incorrectly. ALET will then guide you through a review of the questions you answered incorrectly, offering detailed explanations.
+
+You have now completed the session!
